@@ -1,0 +1,529 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Proj_HouseContemporaryXV_EXPORT.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_7623_Cascades
+Ka 0.156863 0.239216 0.247059
+Kd 0.156863 0.239216 0.247059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl roof-slates2
+Ka 0.403922 0.403922 0.396078
+Kd 0.403922 0.403922 0.396078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/roof-slates2.PNG
+
+newmtl SW_7622_Homberg_Gray
+Ka 0.396078 0.427451 0.415686
+Kd 0.396078 0.427451 0.415686
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Embossed_Styrofoam_Ceiling_Tile_02
+Ka 0.937255 0.937255 0.937255
+Kd 0.937255 0.937255 0.937255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Embossed_Styrofoam_Ceiling_Tile_02.PNG
+
+newmtl 00_MyCust_1b
+Ka 0.737255 0.72549 0.705882
+Kd 0.737255 0.72549 0.705882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/00_MyCust_1b.PNG
+
+newmtl Ceiling_Tile_01
+Ka 0.647059 0.643137 0.635294
+Kd 0.647059 0.643137 0.635294
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Ceiling_Tile_01.PNG
+
+newmtl Wood03
+Ka 0.666667 0.65098 0.572549
+Kd 0.666667 0.65098 0.572549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Wood03.PNG
+
+newmtl 00_TaME_Bronze02
+Ka 0.698039 0.564706 0.227451
+Kd 0.698039 0.564706 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/00_TaME_Bronze02.PNG
+
+newmtl Translucent_Glass_Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl 0136_Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Cladding_Stucco_White
+Ka 0.858824 0.858824 0.858824
+Kd 0.858824 0.858824 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Cladding_Stucco_White.PNG
+
+newmtl SW_6532_Aura_White
+Ka 0.94902 0.94902 0.980392
+Kd 0.94902 0.94902 0.980392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Brick_Rough_Dark
+Ka 0.917647 0.913725 0.901961
+Kd 0.917647 0.913725 0.901961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Brick_Rough_Dark.PNG
+
+newmtl suc-paving-007
+Ka 0.827451 0.819608 0.807843
+Kd 0.827451 0.819608 0.807843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/suc-paving-007.PNG
+
+newmtl tile008-03
+Ka 0.945098 0.937255 0.921569
+Kd 0.945098 0.937255 0.921569
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/tile008-03.PNG
+
+newmtl Floral_Diamond_Spring_Green1a
+Ka 0.756863 0.713725 0.647059
+Kd 0.756863 0.713725 0.647059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Floral_Diamond_Spring_Green1a.PNG
+
+newmtl Tile_NottingHam_15
+Ka 0.6 0.67451 0.627451
+Kd 0.6 0.67451 0.627451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Tile_NottingHam_15.PNG
+
+newmtl 6104_MERBAU_1a
+Ka 0.803922 0.756863 0.654902
+Kd 0.803922 0.756863 0.654902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/6104_MERBAU_1a.PNG
+
+newmtl Tile_OxFord_19
+Ka 0.580392 0.627451 0.635294
+Kd 0.580392 0.627451 0.635294
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Tile_OxFord_19.PNG
+
+newmtl Tile_WellingTon_10
+Ka 0.34902 0.372549 0.2
+Kd 0.34902 0.372549 0.2
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Tile_WellingTon_10.PNG
+
+newmtl Rosetta
+Ka 0.694118 0.65098 0.588235
+Kd 0.694118 0.65098 0.588235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Rosetta.PNG
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.792157 0.819608 0.858824
+Kd 0.792157 0.819608 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Metal_Aluminum_Anodized1.PNG
+
+newmtl Fencing_Diamond_Mesh1
+Ka 0.615686 0.607843 0.6
+Kd 0.615686 0.607843 0.6
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Fencing_Diamond_Mesh1.PNG
+
+newmtl Concrete_Aggregate_Small
+Ka 0.756863 0.752941 0.745098
+Kd 0.756863 0.752941 0.745098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Concrete_Aggregate_Small.PNG
+
+newmtl Vegetation_Ivy_Hedera
+Ka 0.317647 0.52549 0.427451
+Kd 0.317647 0.52549 0.427451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Vegetation_Ivy_Hedera.PNG
+
+newmtl Metal_Panel
+Ka 0.356863 0.356863 0.356863
+Kd 0.356863 0.356863 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Metal_Panel.PNG
+
+newmtl Stone_Marble
+Ka 0.737255 0.72549 0.721569
+Kd 0.737255 0.72549 0.721569
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Stone_Marble.PNG
+
+newmtl Metal_Embossed
+Ka 0.180392 0.184314 0.196078
+Kd 0.180392 0.184314 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Metal_Embossed.PNG
+
+newmtl Translucent_Glass_Sky_Reflection
+Ka 0.486275 0.541176 0.709804
+Kd 0.486275 0.541176 0.709804
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.52
+Tr 0.52
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Translucent_Glass_Sky_Reflection.PNG
+
+newmtl Metal_Seamed
+Ka 0.878431 0.878431 0.878431
+Kd 0.878431 0.878431 0.878431
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Metal_Seamed.PNG
+
+newmtl Material1
+Ka 0.478431 0.317647 0.0941176
+Kd 0.478431 0.317647 0.0941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Material1.PNG
+
+newmtl SW_6253_Olympus_White
+Ka 0.94902 0.952941 0.968627
+Kd 0.94902 0.952941 0.968627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0011_Seashell
+Ka 1 0.960784 0.933333
+Kd 1 0.960784 0.933333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.756863 0.756863 0.756863
+Kd 0.756863 0.756863 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Metal_Corrogated_Shiny.PNG
+
+newmtl 00_TaME_MetalBrushedAluminum01
+Ka 0.780392 0.784314 0.784314
+Kd 0.780392 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/00_TaME_MetalBrushedAluminum01.PNG
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.615686 0.607843 0.6
+Kd 0.615686 0.607843 0.6
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Fencing_Diamond_Mesh.PNG
+
+newmtl Wood_Cherry_Original
+Ka 0.34902 0.196078 0.0941176
+Kd 0.34902 0.196078 0.0941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Wood_Cherry_Original.PNG
+
+newmtl Material3
+Ka 0.572549 0.501961 0.4
+Kd 0.572549 0.501961 0.4
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Material3.PNG
+
+newmtl Copper01
+Ka 0.545098 0.352941 0.129412
+Kd 0.545098 0.352941 0.129412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Copper01.PNG
+
+newmtl 0103_Blue
+Ka 0 0 1
+Kd 0 0 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0020_Red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Green_Dark1
+Ka 0.243137 0.356863 0.0196078
+Kd 0.243137 0.356863 0.0196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.75
+Tr 0.75
+
+newmtl Atlantis
+Ka 0.137255 0.262745 0.294118
+Kd 0.137255 0.262745 0.294118
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Atlantis.PNG
+
+newmtl palladium_texture_by_damylion-d4rrooq
+Ka 0.317647 0.239216 0.141176
+Kd 0.317647 0.239216 0.141176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/palladium_texture_by_damylion-d4rrooq.PNG
+
+newmtl Aqua
+Ka 0.698039 0.780392 0.756863
+Kd 0.698039 0.780392 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/Aqua.PNG
+
+newmtl Color_005
+Ka 0.447059 0.447059 0.447059
+Kd 0.447059 0.447059 0.447059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_MetalBrushedAluminum1
+Ka 0.780392 0.784314 0.784314
+Kd 0.780392 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_HouseContemporaryXV_EXPORT_Textures/00_TaME_MetalBrushedAluminum1.PNG
+
+newmtl Translucent_Glass_Green_Dark
+Ka 0.243137 0.356863 0.0196078
+Kd 0.243137 0.356863 0.0196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl 0133_Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl LightGray
+Ka 0.662745 0.662745 0.662745
+Kd 0.662745 0.662745 0.662745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0135_DarkGray
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkGray
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl LimeGreen
+Ka 0.196078 0.803922 0.196078
+Kd 0.196078 0.803922 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Glass_Gold_Tint
+Ka 0.411765 0.403922 0.286275
+Kd 0.411765 0.403922 0.286275
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0013_LightCoral
+Ka 0.941176 0.501961 0.501961
+Kd 0.941176 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0006_Pink
+Ka 1 0.752941 0.796078
+Kd 1 0.752941 0.796078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0022_Maroon
+Ka 0.501961 0 0
+Kd 0.501961 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#EOF

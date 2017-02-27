@@ -1,0 +1,234 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'House_ContemporaryDesign_FINAL.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Stone_Tile_Squares1
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.913725 0.894118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Stone_Tile_Squares1.jpg
+
+newmtl Water_Pool_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.584314 0.654902
+Ks 0.000000 0.000000 0.000000
+d 0.600000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Water_Pool_Light.jpg
+
+newmtl 0117_GhostWhite
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Material1
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+d 0.600000
+
+newmtl Vegetation_Lobelia
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.529412 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Lobelia.jpg
+
+newmtl Vegetation_Pansies
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.286275 0.278431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Pansies.jpg
+
+newmtl Vegetation_IcePlant_Flower
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.352941 0.745098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_IcePlant_Flower.jpg
+
+newmtl Vegetation_Impatiens_Pink
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.533333 0.603922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Impatiens_Pink.jpg
+
+newmtl Vegetation_Plum
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.596078 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Plum.jpg
+
+newmtl Wood_Floor2
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.321569 0.137255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Wood_Floor2.jpg
+
+newmtl Vegetation_Variegated1
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.584314 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Variegated1.jpg
+
+newmtl Wood_Cherry
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.270588 0.168627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Wood_Cherry.jpg
+
+newmtl Roofing_Shingles_Wood
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.192157 0.145098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Roofing_Shingles_Wood.jpg
+
+newmtl LightGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Copper01
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.352941 0.129412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Copper01.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Metal_Corrogated_Shiny.jpg
+
+newmtl Arch_Element_DoorImage01
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.337255 0.270588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Arch_Element_DoorImage01.png
+
+newmtl stainedglass12
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.396078 0.305882
+Ks 0.000000 0.000000 0.000000
+d 0.750000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/stainedglass12.jpg
+
+newmtl stainedglass05
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.513725 0.301961
+Ks 0.000000 0.000000 0.000000
+d 0.800000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/stainedglass05.jpg
+
+newmtl Vegetation_Juniper2
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.501961 0.274510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Juniper2.jpg
+
+newmtl Vegetation_Bark_Cottonwood
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.505882 0.513725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Vegetation_Bark_Cottonwood.jpg
+
+newmtl Charcoal
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Color_PowderBlue
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.882353 0.937255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Wood_Grain_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.247059 0.082353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Wood_Grain_Light.jpg
+
+newmtl BlueRidge
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.584314 0.607843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/BlueRidge.jpg
+
+newmtl Tile_Border_Travertine
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.556863 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Tile_Border_Travertine.jpg
+
+newmtl forsketchup
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.505882 0.505882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/forsketchup.jpg
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl 0035_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.584314 0.494118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Tile_Granite_MultiBrown2
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.505882 0.415686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Tile_Granite_MultiBrown2.jpg
+
+newmtl Wood_Grain_Light3
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.588235 0.529412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Wood_Grain_Light3.jpg
+
+newmtl Color_C10
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.717647 0.639216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Stone_Vein_Small
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.658824 0.650980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_ContemporaryDesign_FINAL_Textures/Stone_Vein_Small.jpg
+
+#EOF

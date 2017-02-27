@@ -1,0 +1,446 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Proj_House_ContemporaryIX_MAIN-HOUSE.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Material2
+Ka 0.654902 0.717647 0.8
+Kd 0.654902 0.717647 0.8
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+
+newmtl red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0103_Blue
+Ka 0 0 1
+Kd 0 0 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_Bronze02
+Ka 0.698039 0.564706 0.227451
+Kd 0.698039 0.564706 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/00_TaME_Bronze02.jpg
+
+newmtl roblenatural2
+Ka 0.709804 0.513725 0.317647
+Kd 0.709804 0.513725 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/roblenatural2.jpg
+
+newmtl SW_0001_Mulberry_Silk
+Ka 0.407843 0.294118 0.262745
+Kd 0.407843 0.294118 0.262745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Blue
+Ka 0.0352941 0.219608 0.207843
+Kd 0.0352941 0.219608 0.207843
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.15
+Tr 0.15
+
+newmtl Marmol_Florentino_Arena
+Ka 0.894118 0.854902 0.803922
+Kd 0.894118 0.854902 0.803922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Marmol_Florentino_Arena.jpg
+
+newmtl Concrete_Brushed
+Ka 0.752941 0.752941 0.752941
+Kd 0.752941 0.752941 0.752941
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Concrete_Brushed.jpg
+
+newmtl Concrete_Aggregate_Smooth
+Ka 0.713725 0.752941 0.788235
+Kd 0.713725 0.752941 0.788235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Concrete_Aggregate_Smooth.jpg
+
+newmtl Brick_Pavers_Cobble2
+Ka 0.447059 0.466667 0.478431
+Kd 0.447059 0.466667 0.478431
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Brick_Pavers_Cobble2.jpg
+
+newmtl Brick_Tumbled_Painted_
+Ka 0.796078 0.788235 0.792157
+Kd 0.796078 0.788235 0.792157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Brick_Tumbled_Painted_.jpg
+
+newmtl Cladding_Siding_White
+Ka 0.709804 0.737255 0.760784
+Kd 0.709804 0.737255 0.760784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Cladding_Siding_White.jpg
+
+newmtl 00_MyCust_01
+Ka 0.529412 0.552941 0.576471
+Kd 0.529412 0.552941 0.576471
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/00_MyCust_01.jpg
+
+newmtl SW_0031_Dutch_Tile_Blue
+Ka 0.34902 0.388235 0.407843
+Kd 0.34902 0.388235 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl roblenatural1
+Ka 0.509804 0.529412 0.54902
+Kd 0.509804 0.529412 0.54902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/roblenatural1.jpg
+
+newmtl Cladding_Stucco_White
+Ka 0.784314 0.784314 0.784314
+Kd 0.784314 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Cladding_Stucco_White.jpg
+
+newmtl Fencing_Diamond_Mesh1
+Ka 0.615686 0.607843 0.6
+Kd 0.615686 0.607843 0.6
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Fencing_Diamond_Mesh1.png
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.792157 0.819608 0.858824
+Kd 0.792157 0.819608 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.239216 0.239216 0.239216
+Kd 0.239216 0.239216 0.239216
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl SW_0031_Dutch_Tile_Blue1
+Ka 0.654902 0.733333 0.768627
+Kd 0.654902 0.733333 0.768627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Wood_Floor_Parquet2
+Ka 0.529412 0.372549 0.215686
+Kd 0.529412 0.372549 0.215686
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Wood_Floor_Parquet2.jpg
+
+newmtl wa1012906
+Ka 0.529412 0.454902 0.431373
+Kd 0.529412 0.454902 0.431373
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/wa1012906.jpg
+
+newmtl wa1011713
+Ka 0.796078 0.737255 0.654902
+Kd 0.796078 0.737255 0.654902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/wa1011713.jpg
+
+newmtl wa1012424
+Ka 0.862745 0.835294 0.803922
+Kd 0.862745 0.835294 0.803922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/wa1012424.jpg
+
+newmtl Center_Point_Beige
+Ka 0.901961 0.870588 0.843137
+Kd 0.901961 0.870588 0.843137
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Center_Point_Beige.jpg
+
+newmtl Suncrest_Sand
+Ka 0.419608 0.317647 0.298039
+Kd 0.419608 0.317647 0.298039
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Suncrest_Sand.jpg
+
+newmtl 100PerfectMirrordif000ref100
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_005
+Ka 0.447059 0.447059 0.447059
+Kd 0.447059 0.447059 0.447059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl White050lig5000
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0011_Seashell
+Ka 1 0.960784 0.933333
+Kd 1 0.960784 0.933333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_008
+Ka 0.117647 0.117647 0.117647
+Kd 0.117647 0.117647 0.117647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_A05
+Ka 1 0.8 0.8
+Kd 1 0.8 0.8
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_A04
+Ka 1 0.6 0.6
+Kd 1 0.6 0.6
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_A03
+Ka 1 0.396078 0.396078
+Kd 1 0.396078 0.396078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl granito_branco_polar
+Ka 0.878431 0.870588 0.854902
+Kd 0.878431 0.870588 0.854902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/granito_branco_polar.jpg
+
+newmtl SW_7621_Silvermist
+Ka 0.686275 0.72549 0.698039
+Kd 0.686275 0.72549 0.698039
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_7656_Rhinestone
+Ka 0.870588 0.878431 0.87451
+Kd 0.870588 0.878431 0.87451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6276_Mystical_Shade
+Ka 0.760784 0.72549 0.745098
+Kd 0.760784 0.72549 0.745098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6272_Plum_Brown
+Ka 0.333333 0.254902 0.290196
+Kd 0.333333 0.254902 0.290196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6270_Soulmate
+Ka 0.905882 0.862745 0.807843
+Kd 0.905882 0.862745 0.807843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6182_Ethereal_White
+Ka 0.960784 0.941176 0.917647
+Kd 0.960784 0.941176 0.917647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_7505_Manor_House
+Ka 0.388235 0.356863 0.333333
+Kd 0.388235 0.356863 0.333333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_7633_Taupe_Tone
+Ka 0.670588 0.631373 0.564706
+Kd 0.670588 0.631373 0.564706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_7634_Pediment
+Ka 0.827451 0.807843 0.772549
+Kd 0.827451 0.807843 0.772549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 565796
+Ka 0.827451 0.8 0.756863
+Kd 0.827451 0.8 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/565796.jpg
+
+newmtl L12378438
+Ka 0.466667 0.454902 0.423529
+Kd 0.466667 0.454902 0.423529
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/L12378438.jpg
+
+newmtl granito_amarelo_florenca
+Ka 0.654902 0.568627 0.498039
+Kd 0.654902 0.568627 0.498039
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/granito_amarelo_florenca.jpg
+
+newmtl tile006-02
+Ka 0.498039 0.470588 0.439216
+Kd 0.498039 0.470588 0.439216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/tile006-02.jpg
+
+newmtl Wood_Cherry_Original1
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_MAIN-HOUSE_Textures/Wood_Cherry_Original1.jpg
+
+#EOF

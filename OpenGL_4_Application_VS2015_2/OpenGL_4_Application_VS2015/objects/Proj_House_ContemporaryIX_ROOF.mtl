@@ -1,0 +1,66 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Proj_House_ContemporaryIX_ROOF.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Roofing_Shingles_GAF_Marquis
+Ka 0.329412 0.329412 0.329412
+Kd 0.329412 0.329412 0.329412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_ROOF_Textures/Roofing_Shingles_GAF_Marquis.jpg
+
+newmtl Cladding_Siding_White
+Ka 0.709804 0.737255 0.760784
+Kd 0.709804 0.737255 0.760784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_ROOF_Textures/Cladding_Siding_White.jpg
+
+newmtl 00_MyCust_01
+Ka 0.529412 0.552941 0.576471
+Kd 0.529412 0.552941 0.576471
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_ROOF_Textures/00_MyCust_01.jpg
+
+newmtl SW_0031_Dutch_Tile_Blue
+Ka 0.34902 0.388235 0.407843
+Kd 0.34902 0.388235 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Cirrus
+Ka 0.870588 0.870588 0.87451
+Kd 0.870588 0.870588 0.87451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_ROOF_Textures/Cirrus.jpg
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.792157 0.819608 0.858824
+Kd 0.792157 0.819608 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Proj_House_ContemporaryIX_ROOF_Textures/Metal_Aluminum_Anodized1.jpg
+
+#EOF

@@ -1,0 +1,1484 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Stone_Flagstone_Ashlar
+Ka 0.686275 0.454902 0.4
+Kd 0.686275 0.454902 0.4
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Stone_Flagstone_Ashlar.jpg
+
+newmtl Stone_Tile_Squares
+Ka 0.698039 0.568627 0.482353
+Kd 0.698039 0.568627 0.482353
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Stone_Tile_Squares.jpg
+
+newmtl Groundcover_RiverRock_4inch
+Ka 0.568627 0.494118 0.427451
+Kd 0.568627 0.494118 0.427451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Groundcover_RiverRock_4inch.jpg
+
+newmtl Vegetation_Grass1
+Ka 0.564706 0.627451 0.356863
+Kd 0.564706 0.627451 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Grass1.jpg
+
+newmtl CROSSVILLE_ORIGINS-GLASS_EARTH-BLEND-12x12
+Ka 0.462745 0.439216 0.407843
+Kd 0.462745 0.439216 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/CROSSVILLE_ORIGINS-GLASS_EARTH-BLEND-12x12.jpg
+
+newmtl Water_Sparkling
+Ka 0.172549 0.713725 0.839216
+Kd 0.172549 0.713725 0.839216
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.8
+Tr 0.8
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Water_Sparkling.jpg
+
+newmtl Black_Herringbone
+Ka 0.25098 0.215686 0.239216
+Kd 0.25098 0.215686 0.239216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Black_Herringbone.jpg
+
+newmtl Vegetation_Ivy_Hedera
+Ka 0.317647 0.52549 0.427451
+Kd 0.317647 0.52549 0.427451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Ivy_Hedera.jpg
+
+newmtl Vegetation_Impatiens_Pink
+Ka 0.705882 0.533333 0.603922
+Kd 0.705882 0.533333 0.603922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Impatiens_Pink.jpg
+
+newmtl Vegetation_Grass_Artificial_Yellow
+Ka 0.796078 0.686275 0.188235
+Kd 0.796078 0.686275 0.188235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Grass_Artificial_Yellow.jpg
+
+newmtl Vegetation_Pansies
+Ka 0.345098 0.286275 0.278431
+Kd 0.345098 0.286275 0.278431
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Pansies.jpg
+
+newmtl Vegetation_Lanceolate
+Ka 0.341176 0.443137 0.160784
+Kd 0.341176 0.443137 0.160784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Lanceolate.jpg
+
+newmtl Wood_Bamboo_Dark
+Ka 0.588235 0.286275 0.113725
+Kd 0.588235 0.286275 0.113725
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Bamboo_Dark.jpg
+
+newmtl Translucent_Glass_Red_Indian
+Ka 0.803922 0.360784 0.360784
+Kd 0.803922 0.360784 0.360784
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Translucent_Glass_Blue
+Ka 0.392157 0.584314 0.929412
+Kd 0.392157 0.584314 0.929412
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Translucent_Glass_Green_Dark
+Ka 0.243137 0.356863 0.0196078
+Kd 0.243137 0.356863 0.0196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Translucent_Glass_Tan
+Ka 0.823529 0.788235 0.462745
+Kd 0.823529 0.788235 0.462745
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl 00_TaME_Bronze02
+Ka 0.698039 0.564706 0.227451
+Kd 0.698039 0.564706 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_Bronze02.jpg
+
+newmtl LightGray
+Ka 0.662745 0.662745 0.662745
+Kd 0.662745 0.662745 0.662745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl tile004-061-070-70
+Ka 0.835294 0.815686 0.701961
+Kd 0.835294 0.815686 0.701961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/tile004-061-070-70.jpg
+
+newmtl White
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl tile004-021-030-29
+Ka 0.568627 0.545098 0.529412
+Kd 0.568627 0.545098 0.529412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/tile004-021-030-29.jpg
+
+newmtl tile004-001-010-04
+Ka 0.854902 0.690196 0.490196
+Kd 0.854902 0.690196 0.490196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/tile004-001-010-04.jpg
+
+newmtl red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0136_Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl wa1071506
+Ka 0.607843 0.654902 0.768627
+Kd 0.607843 0.654902 0.768627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/wa1071506.jpg
+
+newmtl wa1072737
+Ka 0.694118 0.713725 0.698039
+Kd 0.694118 0.713725 0.698039
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/wa1072737.jpg
+
+newmtl Wood_Weave
+Ka 0.54902 0.333333 0.109804
+Kd 0.54902 0.333333 0.109804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Weave.jpg
+
+newmtl wa1072742
+Ka 0.745098 0.713725 0.639216
+Kd 0.745098 0.713725 0.639216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/wa1072742.jpg
+
+newmtl tile004-041-050-47
+Ka 0.854902 0.831373 0.756863
+Kd 0.854902 0.831373 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/tile004-041-050-47.jpg
+
+newmtl Translucent_Glass_Block_Light
+Ka 0.658824 0.686275 0.756863
+Kd 0.658824 0.686275 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.8
+Tr 0.8
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Translucent_Glass_Block_Light.jpg
+
+newmtl Glass_Gold_Tint
+Ka 0.411765 0.403922 0.286275
+Kd 0.411765 0.403922 0.286275
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Concrete_Salt
+Ka 0.733333 0.705882 0.670588
+Kd 0.733333 0.705882 0.670588
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Concrete_Salt.jpg
+
+newmtl LimeGreen
+Ka 0.196078 0.803922 0.196078
+Kd 0.196078 0.803922 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0103_Blue
+Ka 0 0 1
+Kd 0 0 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Carpet_Low_Smoke
+Ka 0.298039 0.317647 0.305882
+Kd 0.298039 0.317647 0.305882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Carpet_Low_Smoke.jpg
+
+newmtl 0135_DarkGray
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0130_Gainsboro
+Ka 0.862745 0.862745 0.862745
+Kd 0.862745 0.862745 0.862745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0053_Ivory
+Ka 1 1 0.941176
+Kd 1 1 0.941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl PlasmaTV-MonitorScreen
+Ka 0.564706 0.435294 0.494118
+Kd 0.564706 0.435294 0.494118
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/PlasmaTV-MonitorScreen.png
+
+newmtl FloralWhite
+Ka 1 0.980392 0.941176
+Kd 1 0.980392 0.941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Gray61
+Ka 0.219608 0.219608 0.219608
+Kd 0.219608 0.219608 0.219608
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl ax_5103_w960
+Ka 0.392157 0.403922 0.403922
+Kd 0.392157 0.403922 0.403922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/ax_5103_w960.jpg
+
+newmtl cd_5090_w960
+Ka 0.223529 0.227451 0.235294
+Kd 0.223529 0.227451 0.235294
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/cd_5090_w960.jpg
+
+newmtl Color_002
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DVD1940Silver
+Ka 0.47451 0.490196 0.521569
+Kd 0.47451 0.490196 0.521569
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/DVD1940Silver.jpg
+
+newmtl 1_gr_av_DVD3930_Silver
+Ka 0.45098 0.501961 0.545098
+Kd 0.45098 0.501961 0.545098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/1_gr_av_DVD3930_Silver.jpg
+
+newmtl 1_gr_av_AVR1907_Silver
+Ka 0.45098 0.494118 0.545098
+Kd 0.45098 0.494118 0.545098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/1_gr_av_AVR1907_Silver.jpg
+
+newmtl BlueRidge
+Ka 0.509804 0.623529 0.584314
+Kd 0.509804 0.623529 0.584314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/BlueRidge.jpg
+
+newmtl Snow
+Ka 1 0.980392 0.980392
+Kd 1 0.980392 0.980392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SaddleBrown
+Ka 0.545098 0.270588 0.0745098
+Kd 0.545098 0.270588 0.0745098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl FireBrick
+Ka 0.698039 0.133333 0.133333
+Kd 0.698039 0.133333 0.133333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Textile_Stripes_Pastels
+Ka 0.792157 0.72549 0.709804
+Kd 0.792157 0.72549 0.709804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Stripes_Pastels.jpg
+
+newmtl Black1
+Ka 0.521569 0.521569 0.521569
+Kd 0.521569 0.521569 0.521569
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Black1.JPG
+
+newmtl ClamShell
+Ka 0.94902 0.901961 0.788235
+Kd 0.94902 0.901961 0.788235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/ClamShell.jpg
+
+newmtl Creamy_Tiles
+Ka 0.960784 0.921569 0.815686
+Kd 0.960784 0.921569 0.815686
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Creamy_Tiles.jpg
+
+newmtl Oceanic
+Ka 0.439216 0.466667 0.533333
+Kd 0.439216 0.466667 0.533333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Oceanic.jpg
+
+newmtl Desert_Rose_Tile
+Ka 0.607843 0.631373 0.701961
+Kd 0.607843 0.631373 0.701961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Desert_Rose_Tile.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.756863 0.756863 0.756863
+Kd 0.756863 0.756863 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Metal_Corrogated_Shiny.jpg
+
+newmtl Textile_Forest
+Ka 0.443137 0.580392 0.560784
+Kd 0.443137 0.580392 0.560784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Forest.jpg
+
+newmtl 0133_Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.615686 0.607843 0.6
+Kd 0.615686 0.607843 0.6
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Fencing_Diamond_Mesh.png
+
+newmtl Wood_Grain_Stain1
+Ka 0.580392 0.266667 0.0705882
+Kd 0.580392 0.266667 0.0705882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Grain_Stain1.jpg
+
+newmtl Textile_Pattern_Leopard
+Ka 0.611765 0.552941 0.517647
+Kd 0.611765 0.552941 0.517647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Pattern_Leopard.jpg
+
+newmtl Textile_Natural
+Ka 0.662745 0.560784 0.364706
+Kd 0.662745 0.560784 0.364706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Natural.jpg
+
+newmtl Textile_Plaid
+Ka 0.694118 0.482353 0.34902
+Kd 0.694118 0.482353 0.34902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Plaid.jpg
+
+newmtl Textile_Maroon
+Ka 0.419608 0.0352941 0.0431373
+Kd 0.419608 0.0352941 0.0431373
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Maroon.jpg
+
+newmtl Wood_Cherry1
+Ka 0.54902 0.364706 0.196078
+Kd 0.54902 0.364706 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Cherry1.jpg
+
+newmtl Copper1
+Ka 0.858824 0.552941 0.203922
+Kd 0.858824 0.552941 0.203922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Copper1.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Wood_Cherry_Original
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Cherry_Original.jpg
+
+newmtl 00_TaME_MetalBrushedAluminum01
+Ka 0.780392 0.784314 0.784314
+Kd 0.780392 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_MetalBrushedAluminum01.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.792157 0.819608 0.858824
+Kd 0.792157 0.819608 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Metal_Aluminum_Anodized.jpg
+
+newmtl 6mm_Solarcool_1_Graylite_Clear
+Ka 0.627451 0.639216 0.596078
+Kd 0.627451 0.639216 0.596078
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.7
+Tr 0.7
+
+newmtl auto6
+Ka 0.764706 0.537255 0.254902
+Kd 0.764706 0.537255 0.254902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/auto6.jpg
+
+newmtl 558495
+Ka 0.92549 0.921569 0.823529
+Kd 0.92549 0.921569 0.823529
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/558495.jpg
+
+newmtl 553468
+Ka 0.92549 0.913725 0.839216
+Kd 0.92549 0.913725 0.839216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/553468.jpg
+
+newmtl 554085
+Ka 0.521569 0.560784 0.647059
+Kd 0.521569 0.560784 0.647059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/554085.jpg
+
+newmtl 554040
+Ka 0.768627 0.803922 0.886275
+Kd 0.768627 0.803922 0.886275
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/554040.jpg
+
+newmtl 556984
+Ka 0.541176 0.560784 0.627451
+Kd 0.541176 0.560784 0.627451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/556984.jpg
+
+newmtl Wood_Cherry_Original1
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Cherry_Original1.jpg
+
+newmtl JoA1_Marble9
+Ka 0.866667 0.819608 0.831373
+Kd 0.866667 0.819608 0.831373
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/JoA1_Marble9.jpg
+
+newmtl Translucent_Resin_Crush_Gold
+Ka 0.831373 0.823529 0.54902
+Kd 0.831373 0.823529 0.54902
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.8
+Tr 0.8
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Translucent_Resin_Crush_Gold.jpg
+
+newmtl 0009_Linen
+Ka 0.980392 0.941176 0.901961
+Kd 0.980392 0.941176 0.901961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_5510324_0001
+Ka 0.803922 0.709804 0.490196
+Kd 0.803922 0.709804 0.490196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_5510324_0001.jpg
+
+newmtl Wallpaper_Diamond02
+Ka 0.72549 0.705882 0.639216
+Kd 0.72549 0.705882 0.639216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wallpaper_Diamond02.jpg
+
+newmtl 00_TaME_5636393_0001
+Ka 0.823529 0.835294 0.835294
+Kd 0.823529 0.835294 0.835294
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_5636393_0001.jpg
+
+newmtl 00_TaME_578613_0001
+Ka 0.611765 0.623529 0.666667
+Kd 0.611765 0.623529 0.666667
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_578613_0001.jpg
+
+newmtl 00_TaME_Brewster-9265_0001
+Ka 0.898039 0.890196 0.890196
+Kd 0.898039 0.890196 0.890196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_Brewster-9265_0001.jpg
+
+newmtl Wallpaper_Diamond1
+Ka 0.854902 0.847059 0.858824
+Kd 0.854902 0.847059 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wallpaper_Diamond1.jpg
+
+newmtl Wood_Plywood_Grains
+Ka 0.596078 0.501961 0.192157
+Kd 0.596078 0.501961 0.192157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Plywood_Grains.jpg
+
+newmtl Wood_Pegboard_White
+Ka 0.862745 0.862745 0.858824
+Kd 0.862745 0.862745 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Pegboard_White.jpg
+
+newmtl Color_009
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Metal_Rusted
+Ka 0.721569 0.458824 0.356863
+Kd 0.721569 0.458824 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Metal_Rusted.jpg
+
+newmtl Color_005
+Ka 0.447059 0.447059 0.447059
+Kd 0.447059 0.447059 0.447059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_0051
+Ka 0.447059 0.447059 0.447059
+Kd 0.447059 0.447059 0.447059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Spaceport_Hexagons
+Ka 0.6 0.627451 0.690196
+Kd 0.6 0.627451 0.690196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Spaceport_Hexagons.jpg
+
+newmtl SW_6239_Upward
+Ka 0.803922 0.831373 0.894118
+Kd 0.803922 0.831373 0.894118
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Wood_Cherry_Original2
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Cherry_Original2.jpg
+
+newmtl SW_6407_Ancestral_Gold
+Ka 0.945098 0.890196 0.713725
+Kd 0.945098 0.890196 0.713725
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6428_Honeydew
+Ka 0.921569 0.945098 0.811765
+Kd 0.921569 0.945098 0.811765
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6406_Ionic_Ivory
+Ka 0.968627 0.941176 0.827451
+Kd 0.968627 0.941176 0.827451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 564071sm
+Ka 0.960784 0.843137 0.690196
+Kd 0.960784 0.843137 0.690196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/564071sm.jpg
+
+newmtl 568571
+Ka 0.882353 0.862745 0.780392
+Kd 0.882353 0.862745 0.780392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/568571.jpg
+
+newmtl 567727
+Ka 0.866667 0.843137 0.713725
+Kd 0.866667 0.843137 0.713725
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/567727.jpg
+
+newmtl 573010
+Ka 0.596078 0.6 0.607843
+Kd 0.596078 0.6 0.607843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/573010.jpg
+
+newmtl 574580
+Ka 0.898039 0.917647 0.901961
+Kd 0.898039 0.917647 0.901961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/574580.jpg
+
+newmtl _1
+Ka 0.619608 0.572549 0.541176
+Kd 0.619608 0.572549 0.541176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/_1.jpg
+
+newmtl Material1
+Ka 0.839216 0.831373 0.823529
+Kd 0.839216 0.831373 0.823529
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Material1.jpg
+
+newmtl 132332
+Ka 0.886275 0.882353 0.870588
+Kd 0.886275 0.882353 0.870588
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/132332.jpg
+
+newmtl Color_B20
+Ka 0.4 0.337255 0.313725
+Kd 0.4 0.337255 0.313725
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Wood_Cherry_Original3
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Wood_Cherry_Original3.jpg
+
+newmtl Color_F11
+Ka 0.298039 0.6 0
+Kd 0.298039 0.6 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_F12
+Ka 0.356863 0.6 0.117647
+Kd 0.356863 0.6 0.117647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl z2
+Ka 0.345098 0.0941176 0.0431373
+Kd 0.345098 0.0941176 0.0431373
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/z2.JPG
+
+newmtl z
+Ka 0.960784 0.0627451 0.266667
+Kd 0.960784 0.0627451 0.266667
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/z.JPG
+
+newmtl Material13
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Material3
+Ka 0.117647 0.117647 0.117647
+Kd 0.117647 0.117647 0.117647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 574773
+Ka 0.827451 0.764706 0.647059
+Kd 0.827451 0.764706 0.647059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/574773.jpg
+
+newmtl Material4
+Ka 0.584314 0.513725 0.466667
+Kd 0.584314 0.513725 0.466667
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Material4.jpg
+
+newmtl Khaki
+Ka 0.466667 0.447059 0.270588
+Kd 0.466667 0.447059 0.270588
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl CorrogateShiny
+Ka 0.756863 0.756863 0.756863
+Kd 0.756863 0.756863 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/CorrogateShiny.PNG
+
+newmtl metal
+Ka 0.862745 0.862745 0.862745
+Kd 0.862745 0.862745 0.862745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 01_-_Default1
+Ka 0.701961 0.290196 0.0156863
+Kd 0.701961 0.290196 0.0156863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Gray1
+Ka 0.32549 0.411765 0.529412
+Kd 0.32549 0.411765 0.529412
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.4
+Tr 0.4
+
+newmtl Carpet_Diamond_Olive
+Ka 0.341176 0.301961 0.239216
+Kd 0.341176 0.301961 0.239216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Carpet_Diamond_Olive.jpg
+
+newmtl 0022_Maroon
+Ka 0.501961 0 0
+Kd 0.501961 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl akb-bubinga
+Ka 0.619608 0.423529 0.317647
+Kd 0.619608 0.423529 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/akb-bubinga.jpg
+
+newmtl RoyalBlue
+Ka 0.254902 0.411765 0.882353
+Kd 0.254902 0.411765 0.882353
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkOliveGreen
+Ka 0.333333 0.419608 0.184314
+Kd 0.333333 0.419608 0.184314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Navy
+Ka 0 0 0.501961
+Kd 0 0 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkKhaki
+Ka 0.741176 0.717647 0.419608
+Kd 0.741176 0.717647 0.419608
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl MidnightBlue
+Ka 0.0980392 0.0980392 0.439216
+Kd 0.0980392 0.0980392 0.439216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Tan
+Ka 0.823529 0.705882 0.54902
+Kd 0.823529 0.705882 0.54902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Maroon
+Ka 0.501961 0 0
+Kd 0.501961 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkGreen
+Ka 0 0.392157 0
+Kd 0 0.392157 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl CadetBlue
+Ka 0.372549 0.619608 0.627451
+Kd 0.372549 0.619608 0.627451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Indigo
+Ka 0.294118 0 0.509804
+Kd 0.294118 0 0.509804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Sienna
+Ka 0.627451 0.321569 0.176471
+Kd 0.627451 0.321569 0.176471
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SteelBlue
+Ka 0.27451 0.509804 0.705882
+Kd 0.27451 0.509804 0.705882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Textile_Stripes_Red
+Ka 0.466667 0.541176 0.592157
+Kd 0.466667 0.541176 0.592157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Stripes_Red.jpg
+
+newmtl JoannFabrics_004
+Ka 0.513725 0.584314 0.631373
+Kd 0.513725 0.584314 0.631373
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/JoannFabrics_004.jpg
+
+newmtl Translucent_Glass_Gold
+Ka 1 0.996078 0.101961
+Kd 1 0.996078 0.101961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Translucent_Glass_Gold.jpg
+
+newmtl Metal_Brushed
+Ka 0.407843 0.333333 0.270588
+Kd 0.407843 0.333333 0.270588
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Metal_Brushed.jpg
+
+newmtl Textile_Midnight
+Ka 0.113725 0.101961 0.286275
+Kd 0.113725 0.101961 0.286275
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Textile_Midnight.jpg
+
+newmtl IndianRed
+Ka 0.803922 0.360784 0.360784
+Kd 0.803922 0.360784 0.360784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_5510324_1
+Ka 0.388235 0.745098 0.803922
+Kd 0.388235 0.745098 0.803922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/00_TaME_5510324_1.jpg
+
+newmtl Beige1
+Ka 0.827451 0.741176 0.564706
+Kd 0.827451 0.741176 0.564706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Vegetation_Bark_Maple
+Ka 0.827451 0.721569 0.560784
+Kd 0.827451 0.721569 0.560784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Bark_Maple.jpg
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.764706 0.788235 0.827451
+Kd 0.764706 0.788235 0.827451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Material2
+Ka 0.309804 0.309804 0.337255
+Kd 0.309804 0.309804 0.337255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Material2.jpg
+
+newmtl Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Groundcover_Rock_Crushed_Multi
+Ka 0.560784 0.521569 0.505882
+Kd 0.560784 0.521569 0.505882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Groundcover_Rock_Crushed_Multi.jpg
+
+newmtl Material6
+Ka 0.74902 0.74902 0.74902
+Kd 0.74902 0.74902 0.74902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Vegetation_Saguaro
+Ka 0.607843 0.654902 0.356863
+Kd 0.607843 0.654902 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Vegetation_Saguaro.jpg
+
+newmtl Bethany
+Ka 0.745098 0.647059 0.505882
+Kd 0.745098 0.647059 0.505882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Bethany.jpg
+
+newmtl Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Carpet_Pyle04_LiteGold
+Ka 0.545098 0.592157 0.607843
+Kd 0.545098 0.592157 0.607843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Carpet_Pyle04_LiteGold.jpg
+
+newmtl Ivory
+Ka 1 1 0.941176
+Kd 1 1 0.941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Tile_Maroon
+Ka 0.521569 0.592157 0.639216
+Kd 0.521569 0.592157 0.639216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/Tile_Maroon.jpg
+
+newmtl Gainsboro
+Ka 0.862745 0.862745 0.862745
+Kd 0.862745 0.862745 0.862745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkGray
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_008
+Ka 0.117647 0.117647 0.117647
+Kd 0.117647 0.117647 0.117647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 576670
+Ka 0.72549 0.694118 0.592157
+Kd 0.72549 0.694118 0.592157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/576670.jpg
+
+newmtl 576680
+Ka 0.803922 0.760784 0.647059
+Kd 0.803922 0.760784 0.647059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Arch_Bldg_AdobeHouseComplex_EXPORT_HOUSES-LANDSCAPE_Textures/576680.jpg
+
+newmtl Color_I02
+Ka 0.196078 0.196078 1
+Kd 0.196078 0.196078 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkOliveGreen2
+Ka 0.211765 0.482353 0.0313725
+Kd 0.211765 0.482353 0.0313725
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkOliveGreen1
+Ka 0.32549 0.4 0.196078
+Kd 0.32549 0.4 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_A061
+Ka 0.905882 0.729412 0.917647
+Kd 0.905882 0.729412 0.917647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_F16
+Ka 0.2 0.4 0
+Kd 0.2 0.4 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Material45
+Ka 0 0.498039 0.247059
+Kd 0 0.498039 0.247059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#EOF

@@ -1,0 +1,507 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'ArchProj_HouseContemporaryX.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl White050lig5000
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_Bronze1
+Ka 0.698039 0.564706 0.227451
+Kd 0.698039 0.564706 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/00_TaME_Bronze1.jpg
+
+newmtl Translucent_Glass_Green_Dark
+Ka 0.243137 0.356863 0.0196078
+Kd 0.243137 0.356863 0.0196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.85
+Tr 0.85
+
+newmtl 0020_Red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0103_Blue
+Ka 0 0 1
+Kd 0 0 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Wood_Bamboo_Light
+Ka 0.858824 0.701961 0.470588
+Kd 0.858824 0.701961 0.470588
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Wood_Bamboo_Light.jpg
+
+newmtl marmore_travertino_romano_bruto
+Ka 0.823529 0.803922 0.772549
+Kd 0.823529 0.803922 0.772549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/marmore_travertino_romano_bruto.jpg
+
+newmtl 00_TaME_MetalBrushedDark01
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/00_TaME_MetalBrushedDark01.jpg
+
+newmtl Translucent_Glass_Blue
+Ka 0.392157 0.584314 0.929412
+Kd 0.392157 0.584314 0.929412
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Translucent_Glass_Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Water_Sparkling
+Ka 0.172549 0.713725 0.839216
+Kd 0.172549 0.713725 0.839216
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.8
+Tr 0.8
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Water_Sparkling.jpg
+
+newmtl Stone_Tile_Squares
+Ka 0.878431 0.8 0.705882
+Kd 0.878431 0.8 0.705882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Stone_Tile_Squares.jpg
+
+newmtl Black_Herringbone
+Ka 0.517647 0.509804 0.45098
+Kd 0.517647 0.509804 0.45098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Black_Herringbone.jpg
+
+newmtl tile006-08e
+Ka 0.635294 0.639216 0.607843
+Kd 0.635294 0.639216 0.607843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile006-08e.jpg
+
+newmtl Vegetation_Kudzu
+Ka 0.266667 0.396078 0.223529
+Kd 0.266667 0.396078 0.223529
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Vegetation_Kudzu.jpg
+
+newmtl Material3
+Ka 0.54902 0.54902 0.458824
+Kd 0.54902 0.54902 0.458824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Material3.jpg
+
+newmtl Groundcover_Gravel_1inch
+Ka 0.596078 0.521569 0.431373
+Kd 0.596078 0.521569 0.431373
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Groundcover_Gravel_1inch.jpg
+
+newmtl Stone_Coursed_Rough
+Ka 0.647059 0.627451 0.509804
+Kd 0.647059 0.627451 0.509804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Stone_Coursed_Rough.jpg
+
+newmtl Concrete_Aggregate_Small
+Ka 0.886275 0.882353 0.87451
+Kd 0.886275 0.882353 0.87451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Concrete_Aggregate_Small.jpg
+
+newmtl Vegetation_Lanceolate
+Ka 0.341176 0.443137 0.160784
+Kd 0.341176 0.443137 0.160784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Vegetation_Lanceolate.jpg
+
+newmtl Vegetation_IcePlant_Flower
+Ka 0.803922 0.352941 0.745098
+Kd 0.803922 0.352941 0.745098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Vegetation_IcePlant_Flower.jpg
+
+newmtl Vegetation_Pansies
+Ka 0.345098 0.286275 0.278431
+Kd 0.345098 0.286275 0.278431
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Vegetation_Pansies.jpg
+
+newmtl Green
+Ka 0.431373 0.607843 0.372549
+Kd 0.431373 0.607843 0.372549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl LawnGreen
+Ka 0.141176 0.286275 0
+Kd 0.141176 0.286275 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Sketchy_Shingles
+Ka 0.737255 0.737255 0.737255
+Kd 0.737255 0.737255 0.737255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Sketchy_Shingles.jpg
+
+newmtl Cladding_Stucco_White
+Ka 0.784314 0.784314 0.784314
+Kd 0.784314 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Cladding_Stucco_White.jpg
+
+newmtl Color_005
+Ka 0.447059 0.447059 0.447059
+Kd 0.447059 0.447059 0.447059
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 00_TaME_MetalBrushedAluminum01
+Ka 0.780392 0.784314 0.784314
+Kd 0.780392 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/00_TaME_MetalBrushedAluminum01.jpg
+
+newmtl SW_7647_Crushed_Ice
+Ka 0.839216 0.831373 0.8
+Kd 0.839216 0.831373 0.8
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6162_Ancient_Marble
+Ka 0.890196 0.878431 0.803922
+Kd 0.890196 0.878431 0.803922
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SW_6168_Moderne_White
+Ka 0.996078 0.984314 0.94902
+Kd 0.996078 0.984314 0.94902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Wood_Pegboard_White
+Ka 0.862745 0.862745 0.858824
+Kd 0.862745 0.862745 0.858824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Wood_Pegboard_White.jpg
+
+newmtl Wood_Plywood_Grains
+Ka 0.596078 0.501961 0.192157
+Kd 0.596078 0.501961 0.192157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Wood_Plywood_Grains.jpg
+
+newmtl Copper1
+Ka 0.545098 0.352941 0.129412
+Kd 0.545098 0.352941 0.129412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Copper1.jpg
+
+newmtl 00_TaME_MetalBrushedAluminum2
+Ka 0.780392 0.784314 0.784314
+Kd 0.780392 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/00_TaME_MetalBrushedAluminum2.jpg
+
+newmtl Material1
+Ka 0.639216 0.8 0.8
+Kd 0.639216 0.8 0.8
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+
+newmtl 00_TaME_Bronze02
+Ka 0.698039 0.564706 0.227451
+Kd 0.698039 0.564706 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/00_TaME_Bronze02.jpg
+
+newmtl Copper01
+Ka 0.545098 0.352941 0.129412
+Kd 0.545098 0.352941 0.129412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Copper01.jpg
+
+newmtl 00_TaME_MetalBrushedAluminum1
+Ka 0.780392 0.784314 0.784314
+Kd 0.780392 0.784314 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/00_TaME_MetalBrushedAluminum1.jpg
+
+newmtl 0137_Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl tile001-3
+Ka 0.67451 0.623529 0.372549
+Kd 0.67451 0.623529 0.372549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-3.jpg
+
+newmtl tile001-4
+Ka 0.729412 0.658824 0.439216
+Kd 0.729412 0.658824 0.439216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-4.jpg
+
+newmtl tile001-5
+Ka 0.588235 0.537255 0.301961
+Kd 0.588235 0.537255 0.301961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-5.jpg
+
+newmtl tile001-1
+Ka 0.517647 0.501961 0.388235
+Kd 0.517647 0.501961 0.388235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-1.jpg
+
+newmtl tile001-6
+Ka 0.67451 0.67451 0.462745
+Kd 0.67451 0.67451 0.462745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-6.jpg
+
+newmtl tile001-7
+Ka 0.603922 0.537255 0.337255
+Kd 0.603922 0.537255 0.337255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-7.jpg
+
+newmtl tile001-2
+Ka 0.701961 0.662745 0.333333
+Kd 0.701961 0.662745 0.333333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/tile001-2.jpg
+
+newmtl Color_007
+Ka 0.227451 0.227451 0.227451
+Kd 0.227451 0.227451 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0134_DimGray
+Ka 0.411765 0.411765 0.411765
+Kd 0.411765 0.411765 0.411765
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Safety
+Ka 0.227451 0.227451 0.227451
+Kd 0.227451 0.227451 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.75
+Tr 0.75
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Translucent_Glass_Safety.jpg
+
+newmtl 0006_Pink
+Ka 1 0.752941 0.796078
+Kd 1 0.752941 0.796078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0021_DarkRed
+Ka 0.545098 0 0
+Kd 0.545098 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0013_LightCoral
+Ka 0.941176 0.501961 0.501961
+Kd 0.941176 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Stone_Limestone_Smooth
+Ka 0.705882 0.635294 0.545098
+Kd 0.705882 0.635294 0.545098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Stone_Limestone_Smooth.jpg
+
+newmtl Wood_Floor2
+Ka 0.34902 0.235294 0.0980392
+Kd 0.34902 0.235294 0.0980392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Wood_Floor2.jpg
+
+newmtl Tile_BeauMont_18
+Ka 0.529412 0.572549 0.545098
+Kd 0.529412 0.572549 0.545098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Tile_BeauMont_18.JPG
+
+newmtl Tile_OxFord_19
+Ka 0.454902 0.768627 0.752941
+Kd 0.454902 0.768627 0.752941
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/ArchProj_HouseContemporaryX_Textures/Tile_OxFord_19.JPG
+
+#EOF

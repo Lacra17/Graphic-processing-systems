@@ -1,0 +1,58 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Plant_PalmTree.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Vegetation_Ivy_Hedera
+Ka 0.0941176 0.2 0.0588235
+Kd 0.0941176 0.2 0.0588235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Plant_PalmTree_Textures/Vegetation_Ivy_Hedera.jpg
+
+newmtl Leaf_Oak_Component01
+Ka 0.141176 0.188235 0.105882
+Kd 0.141176 0.188235 0.105882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Plant_PalmTree_Textures/Leaf_Oak_Component01.png
+
+newmtl queenbark3
+Ka 0.729412 0.705882 0.678431
+Kd 0.729412 0.705882 0.678431
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Plant_PalmTree_Textures/queenbark3.jpg
+
+newmtl queenbranchbase5
+Ka 0.184314 0.164706 0.160784
+Kd 0.184314 0.164706 0.160784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Plant_PalmTree_Textures/queenbranchbase5.jpg
+
+newmtl queen1_clean
+Ka 0.0666667 0.0862745 0.0313725
+Kd 0.0666667 0.0862745 0.0313725
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd textures/Plant_PalmTree_Textures/queen1_clean.png
+
+#EOF

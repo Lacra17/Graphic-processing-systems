@@ -1,0 +1,242 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 23_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\legno2.jpg
+#
+newmtl luci
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.2
+illum 2
+map_Kd textures\legno1.jpg
+#
+newmtl 24_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\fabric_03.jpg
+#
+newmtl luce2
+Ka  0.4 0.2 0.3
+Kd  0.4 0.2 0.3
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  8.0
+illum 2
+#
+newmtl luce1
+Ka  0.1 0.0 0.3
+Kd  0.1 0.0 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.5
+illum 2
+#
+newmtl 14_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\musanti3.jpg
+#
+newmtl tappo
+Ka  0.6 0.1 0.0
+Kd  0.6 0.1 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.5
+illum 2
+#
+newmtl 19_-_Default
+Ka  0.6 0.7 0.8
+Kd  0.6 0.7 0.8
+Ks  0.9 0.9 0.9
+d  0.3
+Ns  7.0
+illum 2
+#
+newmtl 12_-_Default
+Ka  0.6 0.6 0.5
+Kd  0.6 0.6 0.5
+Ks  0.9 0.9 0.9
+d  0.3
+Ns  6.5
+illum 2
+#
+newmtl tappo1
+Ka  0.1 0.0 0.3
+Kd  0.1 0.0 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.5
+illum 2
+#
+newmtl 21_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\buttero1.jpg
+#
+newmtl 02_-_Default
+Ka  0.1 0.2 0.1
+Kd  0.1 0.2 0.1
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  4.5
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.1 0.3 0.2
+Kd  0.1 0.3 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\buttero3.jpg
+#
+newmtl 04_-_Default
+Ka  0.3 0.2 0.0
+Kd  0.3 0.2 0.0
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  7.5
+illum 2
+#
+newmtl 08_-_Default
+Ka  0.8 0.7 0.4
+Kd  0.8 0.7 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.5
+illum 2
+#
+newmtl 15_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\et1.jpg
+#
+newmtl 09_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\spirito.jpg
+#
+newmtl 13_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\logo%20Cucina%20e%20Vini.gif
+#
+newmtl 11_-_Default
+Ka  0.4 0.2 0.3
+Kd  0.4 0.2 0.3
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  8.0
+illum 2
+#
+newmtl logo
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\logo.gif
+#
+newmtl 17_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\montepulciano.jpg
+#
+newmtl 06_-_Default
+Ka  0.1 0.0 0.1
+Kd  0.1 0.0 0.1
+Ks  0.9 0.9 0.9
+d  0.5
+Ns  5.5
+illum 2
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\noe.jpg
+#
+newmtl et
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\et_albiano.jpg
+#
+newmtl banco
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd textures\Ashwood.jpg
+#
+newmtl piano
+Ka  0.4 0.1 0.0
+Kd  0.4 0.1 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.5
+illum 2
+#
+newmtl 22_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+map_Kd textures\ALUMinio.jpg
+#
+newmtl si
+Ka  0.8 0.7 0.4
+Kd  0.8 0.7 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  7.5
+illum 2
+#
+# EOF

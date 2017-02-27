@@ -1,0 +1,7 @@
+﻿  OpenGL_4_Application_VS2015.cpp
+e:\graphics lab\proj\opengl_4_application_vs2015_2\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(70): warning C4305: '+=': truncation from 'double' to 'float'
+e:\graphics lab\proj\opengl_4_application_vs2015_2\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(74): warning C4305: '-=': truncation from 'double' to 'float'
+e:\graphics lab\proj\opengl_4_application_vs2015_2\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\graphics lab\proj\opengl_4_application_vs2015_2\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(244): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  OpenGL_4_Application_VS2015.vcxproj -> E:\Graphics Lab\Proj\OpenGL_4_Application_VS2015_2\Debug\OpenGL_4_Application_VS2015.exe
+  OpenGL_4_Application_VS2015.vcxproj -> E:\Graphics Lab\Proj\OpenGL_4_Application_VS2015_2\Debug\OpenGL_4_Application_VS2015.pdb (Full PDB)

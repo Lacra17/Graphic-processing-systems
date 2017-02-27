@@ -1,0 +1,147 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'House_wAtrium01.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 0.320000
+
+newmtl Wood_Plywood_Knots
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.478431 0.160784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Wood_Plywood_Knots.jpg
+
+newmtl Material3
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.760784 0.686275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material3.jpg
+
+newmtl Material4
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.541176 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material4.JPG
+
+newmtl Material5
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.215686 0.305882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material5.jpg
+
+newmtl Material6
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.717647 0.462745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material6.jpg
+
+newmtl Material7
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.627451 0.635294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material7.JPG
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Material9
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.423529 0.086275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material9.jpg
+
+newmtl Material12
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.678431 0.678431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material12.jpg
+
+newmtl Material13
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.372549 0.423529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material13.jpg
+
+newmtl Material15
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.654902 0.564706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material15.jpg
+
+newmtl Material16
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.501961 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Material16.jpg
+
+newmtl 00_MyCust_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.549020 0.305882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/00_MyCust_01.jpg
+
+newmtl Roofing_Shingles_GAF_Estates
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.301961 0.290196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Roofing_Shingles_GAF_Estates.jpg
+
+newmtl Color_B22
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.078431 0.039216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Translucent_Glass_Corrugated
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.619608 0.568627
+Ks 0.000000 0.000000 0.000000
+d 0.800000
+map_Kd textures/House_wAtrium01_Textures/Translucent_Glass_Corrugated.jpg
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Concrete_Aggregate_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.643137 0.639216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Concrete_Aggregate_Gray.jpg
+
+newmtl Vegetation_Grass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.466667 0.207843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/House_wAtrium01_Textures/Vegetation_Grass_Blue.jpg
+
+#EOF

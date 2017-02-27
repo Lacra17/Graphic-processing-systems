@@ -1,0 +1,25 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'summerhouse.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.337255 0.164706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/summerhouse/Wood_Cherry_Original.jpg
+
+newmtl Wood__Floor
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.411765 0.239216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd textures/summerhouse/Wood__Floor.jpg
+
+#EOF
